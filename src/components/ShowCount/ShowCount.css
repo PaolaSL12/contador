@@ -1,0 +1,13 @@
+button {
+    padding: 15px;
+    margin: 15px;
+}
+
+button:first-of-type {
+    background-color: rgb(203, 248, 136);
+}
+
+button:last-child {
+    background-color: rgb(249, 110, 110);
+}
+
